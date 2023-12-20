@@ -1,3 +1,3 @@
 React/DRF/MySQL/antd
 
-日報アプリを作りました。
+SPAで日報アプリを作りました。
